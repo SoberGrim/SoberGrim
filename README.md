@@ -1,5 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SoberGrim&label=Profile%20views&color=0e75b6&style=flat" alt="SoberGrim" /> </p>
+
+<p align="left"> <a href="https://github.com/SoberGrim/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SoberGrim" alt="SoberGrim" /></a> </p>
+
 My name is Alexander Moiseev and I'm a software developer. I'm from Russia, living in Volgograd and currently working on client/server Java Developement. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
