@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Alexander Moiseev and I'm a Java software developer. I'm from Russia, living in Volgograd and currently working a coder for hire. You can find me on [![Twitter][1.2]][1], or on [![FaceBook][3.2]][3].
+My name is Alexander Moiseev and I'm a Java software developer. I'm from Russia, living in Volgograd and currently working a coder for hire. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
