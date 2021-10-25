@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Alexander Moiseev and I'm a Java software developer. I'm from Russia, living in Volgograd and currently working on client/server Java Developement. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
