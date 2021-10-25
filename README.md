@@ -18,13 +18,14 @@ My name is Alexander Moiseev and I'm a software developer. I'm from Russia, livi
 ![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-BootStrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Delphi-informational?style=flat&logo=delphi&logoColor=white&color=2bbc8a)
-<p align="left"><img src="https://komarev.com/ghpvc/?username=SoberGrim&label=Profile%20views&color=0e75b6&style=flat" alt="SoberGrim"/></p>
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/SoberGrim/SoberGrim">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoberGrim&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alexanders's GitHub Stats" />
 </a>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=SoberGrim&label=Profile%20views&color=0e75b6&style=flat" alt="SoberGrim"/></p>
 
 <p align="left"> <a href="https://github.com/SoberGrim/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SoberGrim" alt="SoberGrim" /></a></p>
 
