@@ -2,7 +2,7 @@
 
 My name is Alexander Moiseev and I'm a software developer. I'm from Russia, living in Volgograd and currently working on client/server Java Developement. You can find me on [![Twitter][1.2]][1] or  [![LinkedIn][3.2]][3]
 
-<a href="https://twitter.com/SoberGrim">![Twitter Follow](https://img.shields.io/twitter/follow/SoberGrim?style=social) (Follow)</a>
+<a href="https://twitter.com/SoberGrim">![Twitter Follow](https://img.shields.io/twitter/follow/SoberGrim?style=social)</a>
 <a href="https://github.com/SoberGrim">![GitHub followers](https://img.shields.io/github/followers/SoberGrim?style=social)</a>
 
 ## 🔧 Technologies & Tools
