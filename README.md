@@ -41,9 +41,9 @@ My name is Alexander Moiseev and I'm a software developer. I'm from Russia, livi
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (My Twitter)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (My LinkedIn)
 
 <!-- links to your social media accounts -->
 
