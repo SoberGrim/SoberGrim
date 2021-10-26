@@ -28,7 +28,9 @@ My name is Alexander Moiseev and I'm a software developer. I'm from Russia, livi
 <p align="left"><img src="https://komarev.com/ghpvc/?username=SoberGrim&label=Profile%20views&color=2bbc8a&style=flat" alt="SoberGrim"/></p>
 
 <a href="https://twitter.com/SoberGrim">![Twitter Follow](https://img.shields.io/twitter/follow/SoberGrim?style=social)</a>
-![GitHub followers](https://img.shields.io/github/followers/SoberGrim?style=social)
+<a href="https://github.com/SoberGrim">![GitHub followers](https://img.shields.io/github/followers/SoberGrim?style=social)</a>
+<a href="https://linkedin.com/SoberGrim">![GitHub followers](https://img.shields.io/linkedin/followers/SoberGrim?style=social)</a>
+<a href="https://vk.com/SoberGrim">![GitHub followers](https://img.shields.io/vk/followers/SoberGrim?style=social)</a>
 
 <!-- icons with padding -->
 
