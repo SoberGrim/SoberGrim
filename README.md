@@ -26,7 +26,6 @@ My name is Alexander Moiseev and I'm a software developer. I'm from Russia, livi
 </a>
 <br><br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=SoberGrim&label=Profile%20views&color=2bbc8a&style=flat" alt="SoberGrim"/></p>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id="SoberGrim.visitor-badge">
 
 <!-- icons with padding -->
 
