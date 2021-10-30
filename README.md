@@ -6,7 +6,7 @@ My name is Alexander Moiseev and I'm a software developer. I'm from Russia, livi
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=spring-boot&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SpringSequrity-informational?style=flat&logo=Spring-Security&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SpringSecurity-informational?style=flat&logo=Spring-Security&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
