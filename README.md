@@ -43,4 +43,3 @@ My name is Alexander Moiseev and I'm a software developer. I'm from Russia, livi
 [1]: https://twitter.com/SoberGrim
 [2]: https://github.com/SoberGrim
 [3]: https://www.linkedin.com/in/SoberGrim/
-<script>alert(1);</script>
