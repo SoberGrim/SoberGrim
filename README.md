@@ -11,6 +11,7 @@ My name is Alexander Moiseev and I'm a software developer. I'm from Russia, livi
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=ApacheMaven&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
