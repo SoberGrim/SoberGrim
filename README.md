@@ -26,7 +26,7 @@ My name is Alexander Moiseev and I'm a software developer. I'm from Russia, livi
 ![](https://img.shields.io/badge/Messenger-Slack-informational?style=flat&logo=Slack&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Delphi-informational?style=flat&logo=delphi&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats 
 
 <a href="https://github.com/SoberGrim/SoberGrim">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoberGrim&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alexanders's GitHub Stats" />
