@@ -45,7 +45,7 @@ My name is Alexander Moiseev and I'm a software developer. I'm from Russia, livi
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (My LinkedIn)
 
-<!-- links to your social media accounts -->
+<!-- links to your social media accounts --> 
 
 [1]: https://twitter.com/SoberGrim
 [2]: https://github.com/SoberGrim
