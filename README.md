@@ -39,7 +39,7 @@ My name is Alexander Moiseev and I'm a software developer. I'm from Russia, livi
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-<!-- icons without padding -->
+<!-- icons without padding --> 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (My Twitter)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
