@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Alexander Moiseev and I'm a software developer. I'm from Russia, living in Volgograd and currently working on client/server Java Developement. You can find me on [![Twitter][1.2]][1] or&nbsp; [![LinkedIn][3.2]][3] [![Telegram][3.2]][3]
+My name is Alexander Moiseev and I'm a software developer. I'm from Russia, living in Volgograd and currently working on client/server Java Developement. You can find me on [![Twitter][1.2]][1] or&nbsp; [![Telegram][3.3]][4]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -44,9 +44,11 @@ My name is Alexander Moiseev and I'm a software developer. I'm from Russia, livi
 [1.2]: http://i.imgur.com/wWzX9uB.png (My Twitter)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (My LinkedIn)
+[3.3]: https://www.svgrepo.com/show/394493/telegram.svg (My Telegram)
 
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/SoberGrim
 [2]: https://github.com/SoberGrim
 [3]: https://www.linkedin.com/in/SoberGrim/
+[4]: https://t.me/sobergrim
