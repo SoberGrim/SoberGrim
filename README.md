@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Alexander Moiseev and I'm a software developer. I'm from Russia, living in Volgograd and currently working on client/server Java Developement. You can find me on [![Twitter][1.2]][1] or&nbsp; [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111710.png" width="18" style="padding-top: 10px auto;" />][4]
+My name is Alexander Moiseev and I'm a software developer. I'm from Russia, living in Volgograd and currently working on client/server Java Developement. You can find me on [![Twitter][1.2]][1] or&nbsp; [<img src=![Telegram] width="18"/>][4]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
