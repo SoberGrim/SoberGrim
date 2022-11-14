@@ -44,7 +44,7 @@ My name is Alexander Moiseev and I'm a software developer. I'm from Russia, livi
 [1.2]: http://i.imgur.com/wWzX9uB.png (My Twitter)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (My LinkedIn)
-[3.3]: https://www.svgrepo.com/show/349624/sc-telegram.svg (My Telegram)
+[3.3]: https://cdn-icons-png.flaticon.com/512/2111/2111710.png (My Telegram)
 
 <!-- links to your social media accounts -->
 
