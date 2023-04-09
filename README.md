@@ -33,7 +33,6 @@ My name is Alexander Moiseev and I'm a software developer. I'm from Russia, livi
 ![](https://img.shields.io/badge/Messenger-Discord-informational?style=flat&logo=Discord&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Messenger-Slack-informational?style=flat&logo=Slack&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Delphi-informational?style=flat&logo=delphi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats 
 
